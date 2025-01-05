@@ -4,6 +4,7 @@
 
 🛠️ Currently working on:  
 - 🧠 A **movie recommendation algorithm**.  
+- 📱 An **Ionic app** to help students and professors find and manage final projects (TFGs).  
 - 🔓 **Write-ups** on cybersecurity.  
 
 🌱 Currently learning:  
@@ -13,6 +14,7 @@
 ---
 
 ## 🎓 Education & Certifications  
+- 🎓 **4th year** of a **Double Bachelor’s Degree** in Video Game Development & Computer Engineering.  
 - 🎓 **Google Cybersecurity Specialization** (2/8 completed):  
   - ✅ Foundations of Cybersecurity  
   - ✅ Play it Safe  
