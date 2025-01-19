@@ -3,13 +3,12 @@
 🎯 Passionate about **cybersecurity**, **software development**, and continuous learning.  
 
 🛠️ Currently working on:  
-- 🧠 A **movie recommendation algorithm**.  
-- 📱 An **Ionic app** to help students and professors find and manage final projects (TFGs).  
 - 🔓 **Write-ups** on cybersecurity.  
 
 🌱 Currently learning:  
 - 🛡️ **Security methodologies** in programming.  
-- 🌐 **Red and Blue Team** techniques.  
+- 🌐 **Red and Blue Team** techniques.
+- Google **Cybersecurity Specialization**
 
 ---
 
