@@ -13,10 +13,13 @@
 ---
 
 ## 🎓 Education & Certifications  
-- 🎓 **4th year** of a **Double Bachelor’s Degree** in Video Game Development & Computer Engineering.  
-- 🎓 **Google Cybersecurity Specialization** (2/8 completed):  
+- 🏆 **1st Place** in Hackpocalipse CTF, a cybersecurity competition organized by the European University of Madrid in collaboration with HackTheBox.
+- 🎓 **5th year** of a **Double Bachelor’s Degree** in Video Game Development & Computer Engineering.  
+- 🎓 **Google Cybersecurity Specialization** (4/8 completed):  
   - ✅ Foundations of Cybersecurity  
-  - ✅ Play it Safe  
+  - ✅ Play it Safe
+  - ✅ Connect and Protect: Networks and Network Security
+  - ✅ Tools of the Trade: Linux and SQL
 - 🧑‍💻 **HackTheBox**: Training in Capture The Flag (CTF) challenges.  
 
 ---
