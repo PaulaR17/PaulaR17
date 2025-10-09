@@ -8,7 +8,6 @@
 🌱 Currently learning:  
 - 🛡️ **Security methodologies** in programming.  
 - 🌐 **Red and Blue Team** techniques.
-- Google **Cybersecurity Specialization**
 
 ---
 
