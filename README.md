@@ -59,12 +59,18 @@ Development of a **Dynamic Application Security Testing (DAST)** platform to eva
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
 
 ---
+---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulaR17&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaR17&layout=compact&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulaR17&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulaR17&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaR17&layout=compact&theme=radical" height="165"/>
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PaulaR17&theme=radical&hide_border=true)
 ---
 
 ## 🌍 Contact  
