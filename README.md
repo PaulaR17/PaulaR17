@@ -31,8 +31,8 @@ Video Game Development & Computer Engineering
 
 ### 🛡️ TFG – DAST Auditoría Steamworks Integrations  
 
-**Objective**  
 Develop a DAST (Dynamic Application Security Testing) platform to evaluate vulnerabilities in Steamworks integrations within controlled environments.
+
 ---
 
 ## 🧠 Technical Skills  
