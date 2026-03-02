@@ -60,7 +60,6 @@ Development of a **Dynamic Application Security Testing (DAST)** platform to eva
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
 
 ---
----
 
 ## 📊 GitHub Analytics  
 
