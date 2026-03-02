@@ -39,6 +39,7 @@ Development of a **Dynamic Application Security Testing (DAST)** platform to eva
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -61,17 +62,16 @@ Development of a **Dynamic Application Security Testing (DAST)** platform to eva
 ---
 ---
 
-# 📊 GitHub Analytics  
+## 📊 GitHub Analytics  
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulaR17&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulaR17&theme=tokyonight&hide)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulaR17&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaR17&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulaR17&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaR17&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PaulaR17&theme=radical&hide_border=true)
----
+![GitHub Streak](https://streak-stats.demolab.com?user=PaulaR17&theme=tokyonight&hide_border=true)
 
 ## 🌍 Contact  
 
