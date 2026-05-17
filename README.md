@@ -13,8 +13,8 @@ Cybersecurity professional building toward **GRC and security assurance** in the
 
 **Current focus:** ISO/IEC 27001:2022 · NIST CSF 2.0 · DORA — translating frameworks into auditable controls and Python automation.
 
-- 🏆 **1st place** — Hackpocalypse CTF (March 2025)
-- 👥 **50-member Security Awareness programme lead** — Cybersecurity Club, Universidad Europea de Madrid
+- 🏆 **Hackpocalypse CTF** — 1st place winner (2025) · designed and built the 2026 edition for the Cybersecurity Club (network segmentation, challenge authoring, operational security)
+- - 👥 **50-member Security Awareness programme lead** — Cybersecurity Club, Universidad Europea de Madrid
 - 🎓 BSc Computer Science + Video Game Design — graduating 2026
 
 ---
