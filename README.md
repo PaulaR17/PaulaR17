@@ -1,92 +1,88 @@
-# 👋 Hi, I'm Paula  ✨
+# Paula Romero Gallart
 
-🎯 Computer Engineer | Application Security & Security Auditing  
+**Cybersecurity Analyst** · GRC, IT Risk & Security Assurance  
+📍 Madrid, Spain · Open to relocation ✈️ · 🇪🇺 EU/EEA — no work permit required
 
-“Identifying weaknesses before they become incidents.”
-
----
-
-## 🛡️ About Me  
-
-I’m in my 5th year of a Double Bachelor’s Degree in Video Game Development & Computer Engineering.  
-
-My main interest lies in **security auditing, vulnerability assessment and application security testing**. I approach systems from an analytical perspective and evaluating risks, identifying weaknesses and assessing their impact.
-
-🏆 1st Place – Hackpocalipse CTF  
-🧩 CTF Organizer – Designed challenges, prepared infrastructure and validated exploitation paths  
+> *Translating security frameworks into auditable controls and compliance automation.*
 
 ---
 
-## 🎓 Education  
+## 👋 About me
 
-🎓 Double Bachelor’s Degree – Video Game Development & Computer Engineering  
-🎓 Google Cybersecurity Professional Certificate
+Cybersecurity professional building toward **GRC and security assurance** in the financial sector. I combine hands-on technical depth — Red/Blue team labs, CTF infrastructure design, web application testing — with the analytical rigor required for compliance-driven environments.
 
----
+**Current focus:** ISO/IEC 27001:2022 · NIST CSF 2.0 · DORA — translating frameworks into auditable controls and Python automation.
 
-## 🧪 Final Degree Project  
-
-### 🛡️ TFG – DAST Auditoría Steamworks Integrations  
-
-Design and development of a **Dynamic Application Security Testing (DAST)** platform to assess vulnerabilities in Steamworks integrations within controlled environments.
-
-**Project focus:**
-- Vulnerability detection in application flows  
-- Traffic interception and behavioral analysis  
-- Security testing through proxy-based inspection  
-- Automated report generation  
-- Risk evaluation and structured findings documentation  
+- 🏆 **1st place** — Hackpocalypse CTF (March 2025)
+- 👥 **50-member Security Awareness programme lead** — Cybersecurity Club, Universidad Europea de Madrid
+- 🎓 BSc Computer Science + Video Game Design — graduating 2026
 
 ---
 
-# 🧠 Technical Profile  
+## 🚧 What I'm currently building
 
-## 💻 Programming & Scripting  
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+- **ISO 27001 Automated Gap Analyser** — CLI tool mapping system snapshots against ISO/IEC 27001:2022 Annex A, enriched with Shodan and NVD/CVE feeds. *(2026)*
+- **Hackpocalypse CTF — Infrastructure & Writeups** — Network segmentation, challenge architecture and operational lessons learned from the 1st-place CTF. *(2026)*
 
 ---
 
-## 🔐 Security & Auditing  
+## 🛡️ Technical foundation
 
-![Application Security](https://img.shields.io/badge/Application_Security-6A5ACD?style=for-the-badge)
-![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability_Analysis-0052CC?style=for-the-badge)
-![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-8B0000?style=for-the-badge)
-![DAST](https://img.shields.io/badge/DAST-0052CC?style=for-the-badge)
-![Secure Development](https://img.shields.io/badge/Secure_Development-2E8B57?style=for-the-badge)
+**Security Frameworks**  
+ISO/IEC 27001:2022 · NIST CSF 2.0 · DORA · NIS2 · COBIT
+
+**Security Testing & Analysis**  
+Burp Suite · ffuf · Wireshark · Metasploit · Hydra · Hashcat · John the Ripper · Nmap
+
+**Programming & Automation**  
+Python *(audit scripting, API integration, compliance automation)* · Bash · C# · Java · C++
+
+**Operating Systems & Networking**  
+Linux/Ubuntu *(daily)* · TCP/IP · DNS · HTTP/S · network segmentation · firewall policy review
+
+**GRC & Audit Practice**  
+Risk assessment methodology · control gap analysis · third-party risk (TPRM) · security documentation & reporting
 
 ---
 
-## 🛠️ Tools & Environment  
+## 📜 Certifications
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+- ✅ **Google Cybersecurity Professional Certificate** — Google / Coursera, 2025
+- 🔄 **CompTIA Security+** — 2026
 
 ---
 
-## 📊 GitHub Analytics  
+## 🎓 Final Degree Project (TFG)
+
+**DAST Platform for Steamworks Integrations** — Design and development of a Dynamic Application Security Testing platform assessing vulnerabilities in Steamworks integrations within controlled environments. Covers traffic interception, behavioural analysis via proxy inspection, automated report generation and risk evaluation with structured findings documentation.
+
+📂 [TFG_CS-DAST-Integraciones-Steamworks-](https://github.com/PaulaR17/TFG_CS-DAST-Integraciones-Steamworks-)
+
+---
+
+## 📊 GitHub activity
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulaR17&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulaR17&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaR17&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=PaulaR17&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaR17&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PaulaR17&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌍 Contact  
+## 🌍 Languages
 
-Don't be shy!
+🇪🇸 Spanish — Native  ·  🇪🇸 Catalan — Native  ·  🇬🇧 English — C1  ·  🇩🇪 German — A1 *(actively developing toward B2)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paularomerogallart)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paularomerogallart@gmail.com)
+---
+
+## 📫 Contact
+
+📧 **paularomerogallart@gmail.com**  
+💼 [linkedin.com/in/paularomerogallart](https://www.linkedin.com/in/paularomerogallart)  
+🌐 [paular17.github.io](https://paular17.github.io)
+
+---
+
+*Open to GRC, IT Risk and Security Assurance roles · Available from Q4 2026 · No work permit required (EU/EEA)*
